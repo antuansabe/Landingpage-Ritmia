@@ -1,0 +1,21 @@
+{
+  "name": "Soporte de Ritmia",
+  "short_name": "Ritmia",
+  "description": "Portal de soporte oficial de Ritmia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7c3aed",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

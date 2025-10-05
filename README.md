@@ -312,33 +312,6 @@ Prueba navegación por teclado:
 - ✅ **Sin recopilación de datos** - Sitio estático, sin backend
 - ✅ **Formulario opcional** - Formspree solo si lo habilitas
 
-## 🐛 Solución de Problemas
-
-### El sitio no se ve en GitHub Pages
-
-1. Verifica que el repo sea público (o tengas GitHub Pro para repos privados)
-2. Revisa Settings > Pages y confirma que la fuente sea `main` / `/ (root)`
-3. Espera 2-3 minutos y limpia caché del navegador
-4. Verifica que el archivo se llame exactamente `index.html` (minúsculas)
-
-### Los estilos no se cargan
-
-1. Verifica que todos los enlaces usen rutas absolutas (`/css/style.css` en lugar de `css/style.css`)
-2. En navegadores locales (file://), usa rutas relativas temporalmente
-3. Para GitHub Pages, las rutas absolutas funcionan correctamente
-
-### El dark mode no funciona
-
-1. Verifica que tu sistema operativo esté en modo oscuro
-2. Prueba en diferentes navegadores (Safari, Chrome, Firefox)
-3. Inspecciona con DevTools que las CSS variables cambien
-
-### Los iconos no se ven
-
-1. Verifica que `favicon.svg`, `logo.svg` y `apple-touch-icon.png` estén en las rutas correctas
-2. Limpia caché del navegador (Cmd+Shift+R en Mac, Ctrl+Shift+R en Windows)
-3. Los SVG usan gradientes que se renderizan en navegadores modernos
-
 ## 📝 Licencia y Créditos
 
 Este proyecto es de código abierto y libre para uso personal o comercial.
@@ -354,7 +327,7 @@ Este proyecto es de código abierto y libre para uso personal o comercial.
 
 ¿Necesitas ayuda con este sitio?
 
-- **Email:** soporte@tudominio.com
+- **Email:** antuansabe@gmail.com
 - **Documentación GitHub Pages:** [docs.github.com/pages](https://docs.github.com/pages)
 - **Lighthouse Docs:** [web.dev/lighthouse](https://web.dev/lighthouse/)
 - **WCAG Guidelines:** [w3.org/WAI/WCAG21/quickref/](https://www.w3.org/WAI/WCAG21/quickref/)
