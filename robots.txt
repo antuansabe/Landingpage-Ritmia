@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USUARIO.github.io/ritmia-support/sitemap.xml
+Sitemap: https://antuansabe.github.io/Landingpage-Ritmia/sitemap.xml
